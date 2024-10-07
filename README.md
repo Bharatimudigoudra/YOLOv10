@@ -1,4 +1,4 @@
-**About this YOLOv10 object Detection Model**
+**About this YOLOv10 object Detection Model**\n
   YOLO v10 is a real-time object detection model that identifies multiple objects in images or videos. It uses advanced neural networks to detect objects quickly and accurately, making it ideal for tasks like surveillance, autonomous driving, or security applications. YOLO v10 improves speed and precision over its predecessors.
 
 
